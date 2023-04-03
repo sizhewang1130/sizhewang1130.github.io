@@ -5,7 +5,7 @@ What's up? hey\|you
 I am an awesome student at Lehigh, you should hire me!
 
 <p style="text-align:center;">
-  <img class="img-circle" src="/images/deb85b36138469ef689ed65860789c5.jpg" width="50%">
+  <img class="img-circle" src="images/deb85b36138469ef689ed65860789c5.jpg" width="50%">
 </p>
 
 ---
