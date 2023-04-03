@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+I am Sizhe Wang, I am majoring in Business Analytics in Lehigh University, and taking my bachelor degree at American University majoring in Finance.
 
 <p style="text-align:center;">
   <img class="img-circle" src="images/deb85b36138469ef689ed65860789c5.jpg" width="50%">
