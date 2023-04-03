@@ -4,10 +4,8 @@ What's up? hey\|you
 
 I am an awesome student at Lehigh, you should hire me!
 
-<!-- Upload your own photo and change the path -->
-
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://github.com/sizhewanglehigh/sizhewang.github.io/blob/fa2df4ad6426414933505f4d73ab7f155949e2a9/images/deb85b36138469ef689ed65860789c5.jpg" width="50%">
 </p>
 
 ---
