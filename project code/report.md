@@ -181,25 +181,25 @@ For the analysis_sample, because it lost some return value in crsp file, they ha
 
 ## Scatter Plots
 
-![download.png](attachment:5c9cc8c6-b833-4ec6-a61d-cc0f1f5d0e05.png)
+![plot1.png](attachment:5c9cc8c6-b833-4ec6-a61d-cc0f1f5d0e05.png)
 
-![download.png](attachment:bc0f7b7d-7531-4da0-91b2-7ba1437ea2eb.png)
+![plots/plot2.png](attachment:bc0f7b7d-7531-4da0-91b2-7ba1437ea2eb.png)
 
-![download.png](attachment:523fae1e-30a2-407b-a683-78263de465cc.png)
+![plots/plot3.png](attachment:523fae1e-30a2-407b-a683-78263de465cc.png)
 
-![download.png](attachment:fa69cd9a-9791-4d31-ad07-585cbd45475e.png)
+![plots/plot4.png](attachment:fa69cd9a-9791-4d31-ad07-585cbd45475e.png)
 
-![download.png](attachment:219725b7-a96f-4647-8c17-43804c40e35a.png)
+![plots/plot5.png](attachment:219725b7-a96f-4647-8c17-43804c40e35a.png)
 
-![download.png](attachment:ea2f117e-7e4f-429b-927f-cc5226ef78bf.png)
+![plots/plot6.png](attachment:ea2f117e-7e4f-429b-927f-cc5226ef78bf.png)
 
-![download.png](attachment:ced702c2-f3bf-4bd1-9d03-589e5e7e218e.png)
+![plots/plot7.png](attachment:ced702c2-f3bf-4bd1-9d03-589e5e7e218e.png)
 
-![download.png](attachment:f883313f-659d-4439-90e2-ec3cb51e1545.png)
+![plots/plot8.png](attachment:f883313f-659d-4439-90e2-ec3cb51e1545.png)
 
-![download.png](attachment:c6ac445c-efe7-42e7-ad89-c1deba937cce.png)
+![plots/plot9.png](attachment:c6ac445c-efe7-42e7-ad89-c1deba937cce.png)
 
-![download.png](attachment:bf4e54ce-e540-41f9-ae2e-b5161c8071f8.png)
+![plots/plot10.png](attachment:bf4e54ce-e540-41f9-ae2e-b5161c8071f8.png)
 
 ## Four discussion topics
 
