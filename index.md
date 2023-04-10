@@ -14,21 +14,21 @@ I am Sizhe Wang, I am majoring in Business Analytics in Lehigh University, and t
 
 _**[Natural language processing 10-Ks to identify risks](project code/report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+This work analyzed 10k documents from 497 companies and obtained different sentimentality analysis scores by analyzing the text. In addition to that, the paper analyzes the return rate of each company 10 days after the filing date. Finding the corrlation between 10 sentiment scores and 2 different versions of returns.
 
 <img src="project code/output_58_0.png?raw=true"/>
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](regression/regression.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+The practice is analyzing the regression between different varaibles and houseprice, the plot showing the regression in continuous variables. 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Eventual team project](https://sizhewanglehigh.github.io/3guys/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
