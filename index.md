@@ -24,33 +24,34 @@ _**[Regression Practice](regression/regression.md)**_
 
 The practice is analyzing the regression between different varaibles and houseprice, the plot showing the regression in continuous variables. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="regression/output_8_7.png?raw=true"/>
 
 ---
 
 _**[Eventual team project](https://sizhewanglehigh.github.io/3guys/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+We are going to do WFH dataset.
+
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[project_About_Predicting_Movie_Rating](pdf/Group Project.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The project is trying predicti new movie rating based on different variables, we using Multiple Linear Regression, Stepwise Regresion, Neural Network to do the prediction. 
+
+
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Financial Analyst / Consulting
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Travelling
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
