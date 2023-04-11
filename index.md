@@ -30,8 +30,7 @@ The practice is analyzing the regression between different varaibles and housepr
 
 _**[Eventual team project](https://sizhewanglehigh.github.io/3guys/)**_
 
-We are going to do WFH dataset.
-
+In this project, we want to analyze and predict the relationship between layoffs and stock price based on 3 industries (Financials, Information Technology, Industrials)
 
 ---
 
