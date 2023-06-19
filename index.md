@@ -28,7 +28,7 @@ The practice is analyzing the regression between different varaibles and housepr
 
 ---
 
-_**[Stock Price vesus Layoff](https://sizhewanglehigh.github.io/3guys/)**_
+_**[Stock Price versus Layoff](https://sizhewanglehigh.github.io/3guys/)**_
 
 Our project seeks to shed light on the impact of layoffs on the stock prices of affected companies, as well as the broader economic implications of these cuts. By analyzing the stock prices of companies before and after a layoff announcement, we aim to identify any patterns or trends that may exist.
 
