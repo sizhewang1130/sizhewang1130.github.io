@@ -3,7 +3,7 @@
 I am Sizhe Wang, I am majoring in Business Analytics in Lehigh University, and taking my bachelor degree at American University majoring in Finance.
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/Sizhe Wang Photo.jpg" width="50%">
+  <img class="img-circle" src="images/Sizhe Wang resume photo.jpg" width="50%">
 </p>
 
 ---
