@@ -29,7 +29,7 @@ The practice is analyzing the regression between different varaibles and housepr
 ---
 
 _**[Stock Price versus Layoff](https://sizhewang1130.github.io/3guys/)**_
-_**[Stock Price versus Layoff PowerPoint](https://www.canva.com/design/DAFhyAXEE8Y/YhLW6lIAGKmPV5tHLZ1czg/view?utm_content=DAFhyAXEE8Y&utm_campaign=designshare&utm_medium=link&utm_source=editor)**_
+
 
 Our project seeks to shed light on the impact of layoffs on the stock prices of affected companies, as well as the broader economic implications of these cuts. By analyzing the stock prices of companies before and after a layoff announcement, we aim to identify any patterns or trends that may exist.
 
